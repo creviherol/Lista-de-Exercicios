@@ -1,4 +1,4 @@
-//Exercicio 22
+//Exercicio 23
 
 #include <stdio.h>
 #include <math.h>

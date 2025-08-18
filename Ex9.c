@@ -6,7 +6,7 @@ int a = 0,A = 0,B1,B2,X=0,x;
 
 void main() {
     printf("\033[2J\033[1;1H"); // Limpa a tela
-    printf("Digite o numero valores a serem lidos:");
+    printf("Digite os valores a serem lidos:");
     scanf("%i",&a);
     int Numeros[a];
     for (int i = 0; i < a; i++) {
